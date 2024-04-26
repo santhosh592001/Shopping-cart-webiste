@@ -1,0 +1,104 @@
+[
+
+    {
+    
+    "id": 1,
+    "name":"Chop stick",
+    "amt": "299",
+    "Shop":"Pizza Hut",
+    "ftype": "Pizza",
+    "pic": "/Shopping-cart-webiste/image/1s.jpg",
+    "latest": "No"
+    
+    
+    },
+    {
+    
+        "id": 2,
+        "name":"Ham Burger",
+        "amt": "399",
+        "Shop":"Pizza Hut",
+        "ftype": "Pizza",
+        "pic": "/Shopping-cart-webiste/image/1.avif",
+        "latest": "No"
+        
+        
+        },
+        {
+    
+            "id": 3,
+            "name":"Pizza hot",
+            "amt": "455",
+            "Shop":"Pizza Hut",
+            "ftype": "Pizza",
+            "pic": "/Shopping-cart-webiste/image/2.jpg",
+            "latest": "No"
+            
+            
+            },
+            {
+    
+                "id": 4,
+                "name":"Butter Pizza",
+                "amt": "349",
+                "Shop":"Pizza Hut",
+                "ftype": "Pizza",
+                "pic": "/Shopping-cart-webiste/image/7.jpg",
+                "latest": "No"
+                
+                
+                },
+    
+                {
+    
+                    "id": 5,
+                    "name":"Veg Sand Rice",
+                    "amt": "150",
+                    "Shop":"Pizza Hut",
+                    "ftype": "Pizza",
+                    "pic": "/Shopping-cart-webiste/image/4.jpeg",
+                    "latest": "No"
+                    
+                    
+                    },
+    
+    
+                    {
+    
+                        "id": 6,
+                        "name":"Chicken Briyani",
+                        "amt": "299",
+                        "Shop":"Pizza Hut",
+                        "ftype": "Pizza",
+                        "pic": "/Shopping-cart-webiste/image/5.jpeg",
+                        "latest": "No"
+                        
+                        
+                        },
+                        {
+    
+                            "id": 7,
+                            "name":"Egg Fried Rice",
+                            "amt": "120",
+                            "Shop":"Pizza Hut",
+                            "ftype": "Pizza",
+                            "pic": "/Shopping-cart-webiste/image/6.jpg",
+                            "latest": "No"
+                            
+                            
+                            },
+    
+                            {
+    
+                                "id": 8,
+                                "name":"Onion Pizza Hot",
+                                "amt": "350",
+                                "Shop":"Pizza Hut",
+                                "ftype": "Pizza",
+                                "pic": "https://cdn.pixabay.com/photo/2017/12/09/08/18/pizza-3007395_1280.jpg",
+                                "latest": "No"
+                                
+                                
+                                }
+    
+     ]

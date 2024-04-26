@@ -1,0 +1,42 @@
+
+.box{
+    padding:20px;
+}
+
+.nav-item a{
+    display: flex;
+    justify-content: center;
+}
+
+.Product-Container{
+  display:flex;
+  justify-content:center;
+  flex-wrap: wrap;
+  gap:10px;
+  padding-top:20px;
+  border-radius: 30px;
+}
+
+.Cart-conatiner{
+    display: flex;
+    margin-top:20px;
+    border:2px solid red;
+    padding:10px;
+}
+
+.nameofitem{
+    margin-left:20px;
+}
+#RemoveFrom{
+ background-color: red;
+}
+
+#Addto{
+    border-radius:20px;
+    background-color: green;
+}
+
+.image img{
+    width:100px;
+}
+
